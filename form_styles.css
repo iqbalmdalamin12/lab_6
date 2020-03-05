@@ -7,10 +7,15 @@ form {
 label {
     display: block;
     margin: 6px 0;
+    color: #333;
+}
+
+input {
+    border: 1px solid #ccc;
 }
 
 
-input, textarea {
+textarea {
     padding: 10px;
     line-height: 1.5;
     border-radius: 5px;
